@@ -1,8 +1,9 @@
+#Credit to Lawrence Systems https://github.com/flipsidecreations/dotfiles.git 
 # Installation
 ### Download and change folder
 ```
 cd ~
-git clone https://github.com/flipsidecreations/dotfiles.git
+git clone https://github.com/oates/dotfiles.git
 
 cd dotfiles
 ```
